@@ -89,9 +89,9 @@ Leadership, administration, teamwork, and student engagement.
 ---
 
 ## 📫 Contact
-- **Email:** (add your preferred email)  
-- **LinkedIn:** (add your LinkedIn link)  
-- **Portfolio Website:** *(optional — we can build one)*  
+- **Email:** dubekb2005@gmail.com
+- **LinkedIn:** www.linkedin.com/in/keith-dube-b9b105225  
+- **Portfolio Website:** *coming soon)*  
 
 ---
 
