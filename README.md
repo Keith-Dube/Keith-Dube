@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Keith 👋</h1>
-<p align="center">Final-year Computer Science Student | Web & Software Developer | Data Enthusiast</p>
+<p align="center">Final-year Computer Science Student | Aspiring Web & Software Developer | Data Enthusiast</p>
 
 ---
 
@@ -48,23 +48,58 @@ I'm passionate about solving real problems with technology — from building ful
 
 ## 🧩 Featured Projects
 
-### 🐾 **Makhanda SPCA Management System** *(In progress)*
-A full web system for animal welfare operations.  
+### 🐾 **Makhanda SPCA Management System (RugsForPugs)** *(In progress)*
+A full web system designed for real animal welfare operations.  
 **Tech:** HTML, CSS, JavaScript, PHP, MySQL  
-**Features:** animal intake, medical records, cruelty reports, adoptions, donations, role-based access.
+**Features:** animal intake, medical records, cruelty reports, adoptions, donations, role-based access, reporting tools.
 
 ---
 
-### ♟️ **Tic-Tac-Toe Game in F#**
-Functional programming project exploring types, pattern matching (`function` expressions), and DSL-style thinking.
+### 📚 **Manga Reading Website (BookWrym)**
+A custom manga reading platform with smooth navigation and a clean reading experience.  
+**Tech:** HTML, CSS, JavaScript, PHP  
+**Features:** user accounts, chapter loading system, responsive UI.
 
 ---
 
-### 📊 **Data Analysis Projects**
+### 🕹️ **Arcade Game System**
+A modular arcade application containing multiple mini-games.  
+**Tech:** Java  
+**Features:** reusable game components, scoring system, structured game loop.
+
+---
+
+### 🧪 **MY Programming Language**
+A custom programming language created from scratch.  
+**Tech:** Java  
+**Features:** scanning, parsing, grammar construction, virtual machine execution.
+
+---
+
+### 🔀 **Concurrency Management Project**
+Systems-level concurrency project focused on safe parallel execution.  
+**Tech:** C  
+**Features:** threading, synchronization, race-condition prevention, shared-memory safety.
+
+---
+
+### ♟️ **Tic-Tac-Toe Game in F#** *(Not deployed yet)*
+A functional programming project using `function`-based pattern matching and DSL-style design.
+
+---
+
+### 📊 **Data Analysis Projects** *(Not deployed yet)*
 - Exploratory data analysis notebooks  
 - Financial modelling tasks  
-- Visualisations and reporting  
+- Visualisations and insights  
 *(More coming soon.)*
+
+---
+
+### 🌐 **Portfolio Website**
+Your personal developer portfolio showcasing projects and achievements.  
+**Tech:** HTML, CSS, JavaScript  
+**Features:** responsive UI, animations, clean design.
 
 ---
 
@@ -91,7 +126,7 @@ Leadership, administration, teamwork, and student engagement.
 ## 📫 Contact
 - **Email:** dubekb2005@gmail.com
 - **LinkedIn:** www.linkedin.com/in/keith-dube-b9b105225  
-- **Portfolio Website:** *coming soon)*  
+- **Portfolio Website:** *coming soon*  
 
 ---
 
